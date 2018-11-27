@@ -1,0 +1,3 @@
+[submodule "themes/vexo"]
+	path = themes/vexo
+	url = https://github.com/xiaofeixiawei/hexo-theme-vexo.git
